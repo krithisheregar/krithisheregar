@@ -23,7 +23,7 @@
 ### 👩‍💻 About Me
 
 - 🎓 Master’s graduate in **Data Analytics Engineering** from George Mason University, Virginia, USA.
-- 💼 **3+ years’** experience in Data Analytics, BI Reporting, and Automation.
+- 💼 **4+ years’** experience in Data Analytics, BI Reporting, and Automation.
 - 🧠 Strong in **SQL**, **Python**, **Power BI**, and **Tableau**.
 - 📊 Build end-to-end dashboards for decision-makers (**Power BI, Tableau**).
 - 🧹 Clean & **transform** large datasets using SQL & Python (Pandas, NumPy).
