@@ -1,4 +1,4 @@
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG41NjIydHNkb3JkdWE2MmxyOXFsdTA3N2wwcnZ4NHc0azhpMXlpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"  alt="Waving animated woman"> 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG41NjIydHNkb3JkdWE2MmxyOXFsdTA3N2wwcnZ4NHc0azhpMXlpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"  alt="Waving animated woman"> 
 
 ---
 
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76BCF&center=true&vCenter=true&lines=Data+Enthusiast;Data+Analyst+%7C+BI+Developer;Let's+build+something+amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76BCF&center=true&vCenter=true&lines=Data+Enthusiast;Data+Analyst+%7C+BI+Engineer;Let's+build+something+amazing!" alt="Typing SVG" />
 </p>
 
 ---
